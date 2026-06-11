@@ -1,0 +1,123 @@
+Submitter,submissions,variants,sub_%,var_%,cum_sub_%
+"Labcorp Genetics (formerly Invitae), Labcorp",1999,1992,37.8,53.8,37.8
+Ambry Genetics,587,587,11.1,15.8,48.9
+"Illumina Laboratory Services, Illumina",555,376,10.5,10.2,59.4
+GeneDx,394,394,7.5,10.6,66.9
+CeGaT Center for Human Genetics Tuebingen,223,223,4.2,6.0,71.1
+"Women's Health and Genetics/Laboratory Corporation of America, LabCorp",219,219,4.1,5.9,75.2
+"PreventionGenetics, part of Exact Sciences",201,201,3.8,5.4,79.0
+Athena Diagnostics,153,153,2.9,4.1,81.9
+OMIM,140,132,2.6,3.6,84.5
+"Mayo Clinic Laboratories, Mayo Clinic",99,99,1.9,2.7,86.4
+ISCA site 1,72,72,1.4,1.9,87.8
+"Fulgent Genetics, Fulgent Genetics",59,59,1.1,1.6,88.9
+Quest Diagnostics Nichols Institute San Juan Capistrano,46,46,0.9,1.2,89.8
+"ARUP Laboratories, Molecular Genetics and Genomics, ARUP Laboratories",33,33,0.6,0.9,90.4
+ISCA site 4,25,25,0.5,0.7,90.9
+Genome-Nilou Lab,21,9,0.4,0.2,91.3
+ISCA Site 6,19,19,0.4,0.5,91.7
+"Victorian Clinical Genetics Services, Murdoch Childrens Research Institute",19,18,0.4,0.5,92.1
+"Medical Genetics Unit, Mauro Baschirotto Institute for Rare Disease",18,18,0.3,0.5,92.4
+Eurofins Ntd Llc (ga),18,18,0.3,0.5,92.7
+"Revvity Omics, Revvity",17,17,0.3,0.5,93.0
+Mendelics,17,17,0.3,0.5,93.3
+"Department of Pathology and Laboratory Medicine, Sinai Health System",17,17,0.3,0.5,93.6
+"Biesecker Lab/Clinical Genomics Section, National Institutes of Health",17,17,0.3,0.5,93.9
+"Cambridge Genomics Laboratory, East Genomic Laboratory Hub, NHS Genomic Medicine Service",17,17,0.3,0.5,94.2
+"AiLife Diagnostics, AiLife Diagnostics",15,15,0.3,0.4,94.5
+3billion,14,14,0.3,0.4,94.8
+"Institute of Human Genetics Munich, TUM University Hospital",14,14,0.3,0.4,95.1
+"Institute of Medical Genetics and Applied Genomics, University Hospital Tübingen",13,13,0.2,0.4,95.3
+"Human Genetics Group at Institute of Prion Diseases London, University College London",11,11,0.2,0.3,95.5
+"Genomic Research Center, Shahid Beheshti University of Medical Sciences",10,3,0.2,0.1,95.7
+"Centre for Mendelian Genomics, University Medical Centre Ljubljana",9,8,0.2,0.2,95.9
+"Institute of Human Genetics, University of Leipzig Medical Center",9,9,0.2,0.2,96.1
+"Genomic Medicine Center of Excellence, King Faisal Specialist Hospital and Research Centre",8,8,0.2,0.2,96.3
+"Molecular Genetics, Royal Melbourne Hospital",8,8,0.2,0.2,96.5
+SIB Swiss Institute of Bioinformatics,8,8,0.2,0.2,96.7
+"ARUP Laboratories, Cytogenetics and Genomic Microarray, ARUP Laboratories",8,8,0.2,0.2,96.9
+Bionano Laboratories,7,7,0.1,0.2,97.0
+"Clinical Genetics Laboratory, Skane University Hospital Lund",7,7,0.1,0.2,97.1
+ISCA site 17,6,6,0.1,0.2,97.2
+"HudsonAlpha Institute for Biotechnology, HudsonAlpha Institute for Biotechnology",6,6,0.1,0.2,97.3
+"Laboratory of Genetics, Children's Clinical University Hospital Latvia",5,5,0.1,0.1,97.4
+"Foundation for Research in Genetics and Endocrinology, FRIGE's Institute of Human Genetics",5,5,0.1,0.1,97.5
+Baylor Genetics,5,5,0.1,0.1,97.6
+"Kosik Lab, Neuroscience Research Institute, University of California Santa Barbara",5,5,0.1,0.1,97.7
+"Center for Pediatric Genomic Medicine, Children's Mercy Hospital and Clinics",5,5,0.1,0.1,97.8
+"Genome Diagnostics Laboratory, Amsterdam University Medical Center",4,4,0.1,0.1,97.9
+"Variantyx, Inc.",4,4,0.1,0.1,98.0
+"Laboratorio de Genetica e Diagnostico Molecular, Hospital Israelita Albert Einstein",4,4,0.1,0.1,98.1
+MGZ Medical Genetics Center,4,4,0.1,0.1,98.2
+New York Genome Center,4,4,0.1,0.1,98.3
+"Clinical Genomics Laboratory, Laboratory for Precision Diagnostics, University of Washington",4,4,0.1,0.1,98.4
+CENTOGENE GmbH and LLC - Guiding Precision Medicine,4,4,0.1,0.1,98.5
+"Clinical Genetics DNA and cytogenetics Diagnostics Lab, Erasmus MC, Erasmus Medical Center",3,3,0.1,0.1,98.6
+"Medical Genetics, University of Pavia",3,3,0.1,0.1,98.7
+"Suna and Inan Kirac Foundation Neurodegeneration Research Laboratory, Koc University",3,3,0.1,0.1,98.8
+ISCA site 8,3,3,0.1,0.1,98.9
+Kariminejad - Najmabadi Pathology & Genetics Center,3,3,0.1,0.1,99.0
+"Molecular Diagnostics Laboratory, M Health Fairview: University of Minnesota",2,2,0.0,0.1,99.0
+"Myllykangas group, University of Helsinki",2,2,0.0,0.1,99.0
+"Molecular Oncology, Hospital Universitario Central de Asturias (HUCA)",2,2,0.0,0.1,99.0
+"Neuberg Centre For Genomic Medicine, NCGM",2,2,0.0,0.1,99.0
+ISCA site 15,2,2,0.0,0.1,99.0
+"MVZ Martinsried, Medicover Genetics",2,2,0.0,0.1,99.0
+"Medical Genetic Center, Changzhi Maternal and Child Health Care Hospital",2,2,0.0,0.1,99.0
+"GBinsight Genetic Testing by GB HealthWatch, Genben Lifesciences Corporation",2,2,0.0,0.1,99.0
+Dasa,2,2,0.0,0.1,99.0
+"Clinical Omics and Informatics (COIN) Unit, Neuroscience Institute, University Of Cape Town",2,2,0.0,0.1,99.0
+"Department of Human Genetics, Hannover Medical School",2,2,0.0,0.1,99.0
+"Genetics and Molecular Pathology, SA Pathology",2,2,0.0,0.1,99.0
+"Greenwood Genetic Center Diagnostic Laboratories, Greenwood Genetic Center",2,2,0.0,0.1,99.0
+Codex Genetics Limited,2,2,0.0,0.1,99.0
+"Laboratory for Molecular Genetic Diagnostic of Neurological Diseases, University of Belgrade, School of Medicine",2,2,0.0,0.1,99.0
+"Human Genome Lab, NIMHANS, National Institute of Mental Health and Neuro Sciences",2,2,0.0,0.1,99.0
+GeneReviews,2,2,0.0,0.1,99.0
+"Center for Molecular Medicine, University Medical Center Utrecht",1,1,0.0,0.0,99.0
+"Center of Genomic medicine, Geneva, University Hospital of Geneva",1,1,0.0,0.0,99.0
+Blueprint Genetics,1,1,0.0,0.0,99.0
+"Center for Human Genetics and Genomic Medicine, Uniklinik Rwth Aachen",1,1,0.0,0.0,99.0
+"Centro Nacional de Genética Medica, Administración Nacional de Laboratorios e Institutos de Salud (ANLIS) “Dr. Carlos G Malbrán”",1,1,0.0,0.0,99.0
+"Amrita Institute of Medical Sciences and Research Centre, Amrita Vishwa Vidyapeetham",1,1,0.0,0.0,99.0
+"Genomic Medicine Lab, University of California San Francisco",1,1,0.0,0.0,99.0
+"Equipe Genetique des Anomalies du Developpement, Université de Bourgogne",1,1,0.0,0.0,99.0
+"Diagnostics Services (NGS), CSIR - Centre For Cellular And Molecular Biology",1,1,0.0,0.0,99.0
+"Department of Psychiatry, Nagoya University",1,1,0.0,0.0,99.0
+"Department of Clinical Genetics, Copenhagen University Hospital, Rigshospitalet",1,1,0.0,0.0,99.0
+"Department Of Medical Genetics, Medical University Pleven",1,1,0.0,0.0,99.0
+"Department of Biotechnology, Institute of Molecular and Cell Biology, University of Tartu",1,1,0.0,0.0,99.0
+"First Genomix Gene Laboratory, Genetic Diagnostics Department",1,1,0.0,0.0,99.0
+GENinCode PLC,1,1,0.0,0.0,99.0
+"Human Genetics Bochum, Ruhr University Bochum",1,1,0.0,0.0,99.0
+H3Africa Consortium,1,1,0.0,0.0,99.0
+"Groupe Hospitalier Pitie Salpetriere, Uf Genomique Du Developpement, Assistance Publique Hopitaux de Paris Sorbonne Université",1,1,0.0,0.0,99.0
+"Guerreiro-Bras Laboratory, Van Andel Institute",1,1,0.0,0.0,99.0
+"Genetics Laboratory, Great Ormond Street Hospital NHS Foundation Trust, North Thames Genomic Laboratory Hub",1,1,0.0,0.0,99.0
+"Genetics Department, Catlab",1,1,0.0,0.0,99.0
+"Genetic Services Laboratory, University of Chicago",1,1,0.0,0.0,99.0
+"Kazan State Medical University, Kazan State Medical University",1,1,0.0,0.0,99.0
+ISCA site 2,1,1,0.0,0.0,99.0
+ISCA site 14,1,1,0.0,0.0,99.0
+"Institute of Human Genetics, University of Goettingen",1,1,0.0,0.0,99.0
+"Human Genome Sequencing Center Clinical Lab, Baylor College of Medicine",1,1,0.0,0.0,99.0
+"Institute of Human Genetics, Heidelberg University",1,1,0.0,0.0,99.0
+"Johns Hopkins Genomics, Johns Hopkins University",1,1,0.0,0.0,99.0
+Intergen Genetics and Rare Diseases Diagnosis Center,1,1,0.0,0.0,99.0
+"Laboratorio de Biología Molecular, FLENI",1,1,0.0,0.0,99.0
+"Laboratory of Medical Genetics, National & Kapodistrian University of Athens",1,1,0.0,0.0,99.0
+"Laboratory of Medical Genetics, University of Torino",1,1,0.0,0.0,99.0
+"Laboratory for Molecular Medicine, Mass General Brigham Personalized Medicine",1,1,0.0,0.0,99.0
+"Laboratory of Inherited Metabolic Diseases, Research centre for medical genetics",1,1,0.0,0.0,99.0
+"Molecular Medicine for Neurodegenerative and Neuromuscular Diseases Unit, IRCCS Fondazione Stella Maris",1,1,0.0,0.0,99.0
+MVZ Medizinische Genetik Mainz,1,1,0.0,0.0,99.0
+"Medical and Scientific Branch, Hong Kong Genome Institute",1,1,0.0,0.0,99.0
+"Medicover Genetics GmbH, Medicover Humangenetik Berlin-Lichtenberg MVZ",1,1,0.0,0.0,99.0
+Solve-RD Consortium,1,1,0.0,0.0,99.0
+"Reproductive Health Research and Development, BGI Genomics",1,1,0.0,0.0,99.0
+"Oxford Medical Genetics Laboratories, Oxford University Hospitals NHS Foundation Trust",1,1,0.0,0.0,99.0
+"Rare Disease Group, Clinical Genetics, Karolinska Institutet",1,1,0.0,0.0,99.0
+"Undiagnosed Diseases Network, NIH",1,1,0.0,0.0,99.0
+"UCLA Clinical Genomics Center, UCLA",1,1,0.0,0.0,99.0
+"Soonchunhyang University Bucheon Hospital, Soonchunhyang University Medical Center",1,1,0.0,0.0,99.0
+"Zotz-Klimas Genetics Lab, MVZ Zotz Klimas",1,1,0.0,0.0,99.0
